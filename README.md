@@ -39,8 +39,11 @@ Fields include
 • NA_Sales - Sales in North America (in millions) 
 
 • EU_Sales - Sales in Europe (in millions) 
+
 • JP_Sales - Sales in Japan (in millions) 
+
 • Other_Sales - Sales in the rest of the world (in millions) 
+
 • Global_Sales - Total worldwide sales. 
 
 
