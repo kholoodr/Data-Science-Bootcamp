@@ -20,15 +20,24 @@ Design
 This project is one of the T5 Data Science BootCamp requirements. Data provided by Kaggle has been used in this project.  
 
 Data   
-The dataset is provided in .csv format.This dataset contains a list of video games with greater sales. It contains 16,598 records, each record has 11 features. The most relevant feature to this project is Total worldwide sales.This feature is extracted from other features such as Sales in North America,Sales in Europe,Sales in Japan, and Sales in the rest of the world.  
+The dataset is provided in .csv format.This dataset contains a list of video games with greater sales. It contains 16,598 records, each record has 11 features. The most relevant feature to this project is Total worldwide sales.This feature is extracted from other features such as Sales in North America,Sales in Europe,Sales in Japan, and Sales in the rest of the world. 
+
 Fields include 
+
 • Rank - Ranking of overall sales 
+
 • Name - The games name
+
 • Platform - Platform of the games release (i.e. PC,PS4, etc.)
+
 • Year - Year of the game's release
+
 • Genre - Genre of the game 
+
 • Publisher - Publisher of the game 
+
 • NA_Sales - Sales in North America (in millions) 
+
 • EU_Sales - Sales in Europe (in millions) 
 • JP_Sales - Sales in Japan (in millions) 
 • Other_Sales - Sales in the rest of the world (in millions) 
@@ -36,6 +45,7 @@ Fields include
 
 
 Tools 
+
  Data processing :Pandas , Numpy.
 
  Modelling: Scikit-learn
