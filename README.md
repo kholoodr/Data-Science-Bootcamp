@@ -1,3 +1,4 @@
+[Presentation kholood.pdf](https://github.com/kholoodr/Data-Science-Bootcamp/files/7560423/Presentation.kholood.pdf)
 [Presentation kholood.pdf](https://github.com/kholoodr/Data-Science-Bootcamp/files/7560417/Presentation.kholood.pdf)
 # Data-Science-Bootcamp
 This Project is for the project of T5 Bootcamp requirements.
